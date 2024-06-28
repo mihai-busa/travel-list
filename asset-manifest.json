@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mihai-busa/travel-list.git/static/css/main.d37fe1a8.css",
-    "main.js": "/mihai-busa/travel-list.git/static/js/main.b228ed58.js",
-    "index.html": "/mihai-busa/travel-list.git/index.html",
-    "main.d37fe1a8.css.map": "/mihai-busa/travel-list.git/static/css/main.d37fe1a8.css.map",
-    "main.b228ed58.js.map": "/mihai-busa/travel-list.git/static/js/main.b228ed58.js.map"
+    "main.css": "/travel-list/static/css/main.d37fe1a8.css",
+    "main.js": "/travel-list/static/js/main.b228ed58.js",
+    "index.html": "/travel-list/index.html",
+    "main.d37fe1a8.css.map": "/travel-list/static/css/main.d37fe1a8.css.map",
+    "main.b228ed58.js.map": "/travel-list/static/js/main.b228ed58.js.map"
   },
   "entrypoints": [
     "static/css/main.d37fe1a8.css",
